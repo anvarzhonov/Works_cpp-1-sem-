@@ -1,0 +1,3 @@
+﻿  Лаба12.cpp
+C:\Users\79772\source\repos\Лаба12\Лаба12\Лаба12.cpp(91,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лаба12.vcxproj -> C:\Users\79772\source\repos\Лаба12\Debug\Лаба12.exe
