@@ -1,0 +1,16 @@
+﻿  ARM_LABA-3.cpp
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(348,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(361,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(378,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(387,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(391,11): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(433,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(457,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(472,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(483,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(618,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(641,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(699,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(582): warning C4715: base::create_ob: значение возвращается не при всех путях выполнения
+C:\Users\Evgeniy\source\repos\ARM_LABA-3\ARM_LABA-3.cpp(680): warning C4715: application::get_point_main: значение возвращается не при всех путях выполнения
+  ARM_LABA-3.vcxproj -> C:\Users\Evgeniy\source\repos\ARM_LABA-3\Debug\ARM_LABA-3.exe
